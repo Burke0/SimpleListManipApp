@@ -7,7 +7,7 @@ import java.util.Scanner;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
 /*
- * The code is a Java application that provides a GUI to load, save, add and delete items in a list. 
+ * This a Java application that provides a GUI to load, save, add and delete items in a list. 
  * It extends JPanel and implements ActionListener. 
  * The class has instance variables such as JList, DefaultListModel, JFileChooser, BufferedWriter, and File. 
  * In the constructor, the components are initialized, and their properties are set. Action listeners and action commands are added to components such as buttons and menus. 
